@@ -23,4 +23,14 @@ Api Criada no curso da Algaworks Curso mergulho spring rest
 - Implementando Domain Services
 
 **Modulo 3**
+(trabalhando na branch   modulo3)
+
+- Implementando solicitação de entrega
+- Validação em cascata e Validation Groups
+- Boas práticas para trabalhar com data/hora
+- Isolando Domain Model do Representation Model
+- Simplificando a transformação de objetos com ModelMapper
+- Implementando sub-recursos
+- Implementando ação não-CRUD
+- 
 **Modulo 4** 
