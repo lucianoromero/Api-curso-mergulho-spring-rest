@@ -32,5 +32,5 @@ Api Criada no curso da Algaworks Curso mergulho spring rest
 - Simplificando a transformação de objetos com ModelMapper
 - Implementando sub-recursos
 - Implementando ação não-CRUD
-- 
+ 
 **Modulo 4** 
