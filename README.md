@@ -1,7 +1,7 @@
 # Api-curso-mergulho-spring-rest
 Api Criada no curso da Algaworks Curso mergulho spring rest
 
-**Modulo 1** 
+<h3> Modulo 1 </h3> 
 (trabalhando na branch   modulo1)
 
 - Fundamentos de REST
@@ -11,7 +11,7 @@ Api Criada no curso da Algaworks Curso mergulho spring rest
 - Métodos e códigos de status HTTP
 - Content Negotiation
 
-**Modulo 2** 
+<h3> Modulo 2 </h3> 
 (trabalhando na branch   modulo2)
 
 - Configurando o Flyway
@@ -22,7 +22,7 @@ Api Criada no curso da Algaworks Curso mergulho spring rest
 - Implementando Exception Handler
 - Implementando Domain Services
 
-**Modulo 3**
+<h3> Modulo 3 </h3>
 (trabalhando na branch   modulo3)
 
 - Implementando solicitação de entrega
@@ -33,4 +33,11 @@ Api Criada no curso da Algaworks Curso mergulho spring rest
 - Implementando sub-recursos
 - Implementando ação não-CRUD
  
-**Modulo 4** 
+<h3> Rodar, buildar e/ou testar o projeto:</h3>
+
+```
+Necessario ter o Java versão 11, instalado. 
+Necessario ter o MySQL instalado. 
+Criar a base de dados de conexão algalog
+Realizar a configuração do banco de dados, informando o nome de usuario e senha dentro de application.properties 
+```
